@@ -21,32 +21,85 @@ Fleet/Edge Team
 
 # Topics
 
-- :memo: **Write slide deck with plain Markdown** (CommonMark)
-- :factory: Built on [Marpit framework][marpit]: A brand-new skinny framework for creating slide deck
-- :gear: [Marp Core][marp-core]: Easy to start using the core engine and built-in themes via npm
-- :tv: [Marp CLI][marp-cli]: Convert Markdown into HTML, PDF, PPTX, and images
-- :vs: [Marp for VS Code][marp-vscode]: Live-preview your deck while editting
-- and more...
+- 2023: What can we expect
+- The Fleet Service
+- FUSA
+- The Future?
+- Edge Related Collections/Content
+- AAP improvements to support Scale/Performance for Edge
+- Thank you: Past, Present and Future
+- Q & A
+
+---
+# 2023: What can we expect
+
+2023 will be a year that will have challenges across the industry and Red Hat will not be immune.  Red Hat is being proactive, this is a good thing
+
+- Hiring Freeze
+  * Aim to be flat, will backfill in key areas
+  * Exceptions by exception (PIPs & Internal mobility)
+- Expect travel reduction
+- Focus on "Performance Management"
+  * Goal Setting with Og (tied to OKRs, North Star and Company Objectives)
+
 
 ---
 
-# How to write slides?
+# The Fleet Service
 
-Split pages by horizontal ruler (e.g. `---`). It's very simple.
 
-```markdown
-# Slide 1
 
-foobar
+- Placeholder
 
 ---
 
-# Slide 2
+# FUSA
+
+
+
+- Placeholder
+
+---
+
+
+# The Future?
+
+
+
+- Placeholder
+---
+
+
+# Edge Related Collections/Content
+
+
+
+- Placeholder
+
+---
+
+
+# AAP improvements to support Scale/Performance for Edge
+
+
+
+- Placeholder
+
+---
+
+
+# Thank You
+
+
+![bg](https://raw.githubusercontent.com/chuckbrant/MARP-Slides/main/assets/thankyou.jpg)
+
+---
+
 
 foobar
 ```
 
----
+2023: What can we expect---
 
 # Directives
 
