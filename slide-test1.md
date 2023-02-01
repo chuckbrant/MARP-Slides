@@ -2,15 +2,14 @@
 marp: true
 ---
 
-Marp
+Fleet/Edge Team
 ===
 
-![h:250](https://github.com/chuckbrant/MARP-Slides/blob/main/assets/Ansible-Banner.png)
+![h:250](https://raw.githubusercontent.com/chuckbrant/MARP-Slides/main/assets/Ansible-Banner.png)
 
 
-##### Markdown presentation ecosystem
-
-###### by Marp Team ([@marp-team][marp-team])
+##### Team Meeting 2/9/2023
+###### Chuck Brant 
 
 [marp-team]: https://github.com/marp-team
 [marpit]: https://github.com/marp-team/marpit
@@ -20,7 +19,7 @@ Marp
 
 ---
 
-# Features
+# Topics
 
 - :memo: **Write slide deck with plain Markdown** (CommonMark)
 - :factory: Built on [Marpit framework][marpit]: A brand-new skinny framework for creating slide deck
