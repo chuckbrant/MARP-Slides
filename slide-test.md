@@ -5,7 +5,8 @@ marp: true
 Marp
 ===
 
-![h:250](https://avatars1.githubusercontent.com/u/20685754?v=4)
+![h:250](https://github.com/chuckbrant/MARP-Slides/blob/main/assets/Ansible-Banner.png)
+
 
 ##### Markdown presentation ecosystem
 
